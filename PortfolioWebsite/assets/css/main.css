@@ -74,6 +74,12 @@
 	}
 
 	/* Basic */
+.image.fit img {
+	width: 300px; /* Adjust these dimensions as needed */
+	height: 300px;
+	object-fit: cover;
+	display: block;
+}
 
 		@-ms-viewport {
 			width: device-width;
