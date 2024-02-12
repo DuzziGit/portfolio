@@ -1,2 +1,4 @@
-# PortfolioWebsitev2
- This is a remake of my website using a template from html5up.net. 
+# Portfolio Website
+My portfolio website is hosted here. 
+
+Template: html5up.net
